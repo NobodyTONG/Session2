@@ -15,7 +15,7 @@ pypdf==4.2.0, pandas==2.2.2, torch==2.1.2+cpu, numpy==1.26.4, transformers==4.42
 
 
 ## Dataset
-The API command of dataset is 'kaggle datasets download -d houhuantong/half-year-data' OR you can search 'HOU Huantong' in Kaggle page and find 'half_year_data' dataset.
+The API command of dataset is 'kaggle datasets download -d houhuantong/half-year-data' OR you can search 'HOU Huantong' in Kaggle page and find 'half_year_data' dataset. The results from the codes are obtained under provided weights. Please download the weights firstly and then run the codes.
 
 - 'half-year-date/': 
 	  - 167labelled.csv
